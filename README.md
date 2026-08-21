@@ -218,6 +218,6 @@ For production deployment, move database credentials out of `settings.json`, use
 
 ## Author
 
-**P. Dinesh Ajay**
+**SHAIK AKHIL AHMED**
 
 HabitSphere was developed as a Python full-stack habit tracking and analytics project.
