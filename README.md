@@ -88,12 +88,10 @@ HabitSphere/
 ├── reports/
 │   ├── csv/                     # Generated CSV reports
 │   └── txt/                     # Generated TXT reports
-├── venv/                        # Local virtual environment (created locally)
-├── habitsphere.py               # Earlier JSON-based terminal prototype
-└── habits_data.json             # Data file for the earlier terminal prototype
+└── venv/                        # Local virtual environment (created locally)
 ```
+The current web application uses `app.py`, `habit_tracker.py`, MySQL, and `json/settings.json`.
 
-The current web application uses `app.py`, `habit_tracker.py`, MySQL, and `json/settings.json`. The legacy `habitsphere.py` and `habits_data.json` files are not used by the SPA.
 
 ## How the application works
 
